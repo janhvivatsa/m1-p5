@@ -6,6 +6,10 @@ Built for **academic presentation, evaluation, and college-level viva demonstrat
 
 ---
 
+## Application Screenshot
+
+![Dashboard Screenshot](images/dashboard.png)
+
 ## 🌟 Key Features
 
 1. **Two-Stage Generation & Verification Pipeline**
