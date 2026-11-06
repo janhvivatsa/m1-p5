@@ -187,6 +187,4 @@ Re-evaluates an existing answer against newly supplied user reference text.
 ## 📄 License & Attribution
 Developed for Project M1-P5 under Academic College Submission Guidelines.
 Powered by DeepSeek AI.
-#   m 1 - p 5 
- 
- 
+#
